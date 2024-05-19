@@ -1,4 +1,4 @@
-# Morfologia
+# Image processing con la morfologia matematica
 Luca Angeli  
 ISIA U - A.A. 2023/2024  
 Triennio I  
